@@ -1,0 +1,8 @@
+{
+  "ExtractPlinkVariants.plink_bed": "path/to/input.bed",
+  "ExtractPlinkVariants.plink_bim": "path/to/input.bim",
+  "ExtractPlinkVariants.plink_fam": "path/to/input.fam",
+  "ExtractPlinkVariants.variant_list": "path/to/variants.txt",
+  "ExtractPlinkVariants.output_prefix": "path/to/output_prefix"
+}
+
